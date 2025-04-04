@@ -97,7 +97,7 @@ c = ModbusClient(host="localhost", port=502, unit_id=1, auto_open=True)
 ---
 
 ## **🎯 Autor**  
-👨‍💻 **André Monteiro** 
+ **André Monteiro** 
 
 ---
 
