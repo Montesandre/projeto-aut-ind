@@ -101,6 +101,5 @@ c = ModbusClient(host="localhost", port=502, unit_id=1, auto_open=True)
 
 ---
 
-**Pronto! Agora seu CLP está pronto para a era digital!** 🎉  
-Quer melhorar algo? Manda bala! **#ModbusNaWeb #AutomaçãoInteligente** 🔧🚀
+
 
