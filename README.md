@@ -1,4 +1,4 @@
-# **Modbus-API: Seu CLP Agora Fala HTTP!** 🚀  
+# **Modbus-API: Seu CLP Agora Fala HTTP!** 
 
 **Descrição:**  
 Uma API em Flask que faz a ponte entre requisições HTTP e um CLP via **Modbus TCP**, permitindo **ler** e **escrever** registros de forma simples e rápida.  
